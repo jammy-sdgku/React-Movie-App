@@ -1,5 +1,5 @@
 import "../css/Home.css";
-import MovieCard from "../components/movieCard";
+import MovieCard from "../components/MovieCard";
 import { searchMovies, getPopularMovies } from "../services/api";
 import { useState, useEffect } from "react";
 
